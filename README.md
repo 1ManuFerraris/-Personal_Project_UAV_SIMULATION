@@ -36,5 +36,5 @@ Computer Vision & Image Processing Toolbox.
 Simulink 3D Animation & Simulink Coder.
 
 📺 Demostración
-El video demostrativo de la simulación con el audio original se encuentra disponible en el siguiente enlace:
+El video demostrativo de la simulación se encuentra disponible en el siguiente enlace:
 https://drive.google.com/drive/folders/1-hqnKSXZZtOtCEmlY9cFQOxKplq6wV9h?usp=sharing
